@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+.cl-avatarBox{
+    height: 2.5rem;
+    width: 2.5rem;
+}
+.slick-dots {
+  bottom: 10px !important; /* Move dots upward so they're inside visible area */
+}
+
+.slick-dots li button:before {
+  color: white !important;  /* Make dot color visible on blue bg */
+}
+input{
+  background: #fff;
+  accent-color: red;
+  border: 1px solid #ccc;
+  color: #333;
+}
