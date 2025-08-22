@@ -62,9 +62,7 @@ function Carousel() {
                             </div>)
                     })
                 }
-                <div>
-                    <h3>1</h3>
-                </div>
+               
             </Slider>
             <Category />
         </div>
